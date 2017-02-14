@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.carlos_arriaga.menu.VerdeFragment"
+    android:background="#274b08">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</FrameLayout>
